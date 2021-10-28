@@ -1,0 +1,2 @@
+wevtutil qe system /c:3 /rd:true /f:text /q:"Event[System[EventID=6005]]"
+
